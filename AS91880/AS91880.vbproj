@@ -94,9 +94,7 @@
   <ItemGroup>
     <Content Include="css\Main.css" />
     <Content Include="Home.html" />
-    <Content Include="index.html" />
     <Content Include="metal.html" />
-    <Content Include="Stone node.html" />
     <Content Include="stone.html" />
     <Content Include="sulfur.html" />
     <Content Include="trees.html" />
