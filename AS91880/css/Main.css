@@ -28,8 +28,7 @@ body {
     grid-area: banner;
     background-color: #548191;
     font-family: 'Exo 2', sans-serif;
-    font-size: 25px;
-  
+    font-size: 160%;
 }
 
 .logo {
@@ -64,4 +63,18 @@ img {
 
 a {
     color: Black;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    background-color: #8a684d;
+    font-size: large;
+}
+th, td {
+    background-color: #8d9581;
+    text-align: center;
+}
+img.main-image {
+    width: 100px;
 }
