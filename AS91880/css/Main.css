@@ -65,6 +65,9 @@ a {
     color: Black;
 }
 
+.main {
+    height: 390px;
+}
 table, th, td {
     border: 1px solid black;
     text-align: center;
